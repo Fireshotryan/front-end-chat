@@ -1,4 +1,4 @@
-const baseUrl = 'https://prg8backendchat.onrender.com/';
+const baseUrl = 'https://front-end-chat.onrender.com/';
 
 export async function getMotivated(prompt) {
     try {
